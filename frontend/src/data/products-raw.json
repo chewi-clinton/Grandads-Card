@@ -1,0 +1,2016 @@
+[
+  {
+    "id": 7616971243597,
+    "title": "Mega Dream ex Booster Box - M2a",
+    "handle": "mega-dream-ex-booster-box-m2a",
+    "description": "<p>Factory Sealed<br>Release Date: 11/28/2025</p>\n<p>10 Packs/Box</p>\n<p>10 Cards/Pack</p>\n<p>\u00a0</p>\n<p>\u00a0</p>\n<p>\u00a0</p>",
+    "published_at": "2026-05-23T13:34:14-04:00",
+    "created_at": "2025-11-07T21:15:16-05:00",
+    "vendor": "Grandad's Cards",
+    "type": "Japanese Booster Box",
+    "tags": [
+      "online-in-stock",
+      "oos-online"
+    ],
+    "price": 10999,
+    "price_min": 10999,
+    "price_max": 10999,
+    "available": true,
+    "price_varies": false,
+    "compare_at_price": null,
+    "compare_at_price_min": 0,
+    "compare_at_price_max": 0,
+    "compare_at_price_varies": false,
+    "variants": [
+      {
+        "id": 42398577950797,
+        "title": "Default Title",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "JPPK-M2A",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "name": "Mega Dream ex Booster Box - M2a",
+        "public_title": null,
+        "options": [
+          "Default Title"
+        ],
+        "price": 10999,
+        "weight": 454,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "4521329431932",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      }
+    ],
+    "images": [
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitleddesign_22.png?v=1762567569"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitleddesign_22.png?v=1762567569",
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "url": "/products/mega-dream-ex-booster-box-m2a",
+    "media": [
+      {
+        "alt": "Image for Japanese (M2A) Mega Dream ex Booster Pack",
+        "id": 25901912162381,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitleddesign_22.png?v=1762567569"
+        },
+        "aspect_ratio": 1.0,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitleddesign_22.png?v=1762567569",
+        "width": 1000
+      }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "_category": "pokemon-japanese",
+    "_local_image": "/images/products/mega-dream-ex-booster-box-m2a.png"
+  },
+  {
+    "id": 7395599581261,
+    "title": "Terastal Festival Booster Box - SV8A",
+    "handle": "terastal-festival-booster-box-sv8a",
+    "description": "<p>Shrink Wrapped &amp; Factory Sealed</p>\n<p>12-06-2024 release</p>",
+    "published_at": "2026-05-14T09:56:08-04:00",
+    "created_at": "2024-12-22T07:29:02-05:00",
+    "vendor": "Grandad's Cards",
+    "type": "Japanese Booster Box",
+    "tags": [
+      "online-in-stock",
+      "Scarlet & Violet JPN"
+    ],
+    "price": 15199,
+    "price_min": 15199,
+    "price_max": 15199,
+    "available": true,
+    "price_varies": false,
+    "compare_at_price": null,
+    "compare_at_price_min": 0,
+    "compare_at_price_max": 0,
+    "compare_at_price_varies": false,
+    "variants": [
+      {
+        "id": 41486864318541,
+        "title": "Default Title",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "JPPK-SV8A",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "name": "Terastal Festival Booster Box - SV8A",
+        "public_title": null,
+        "options": [
+          "Default Title"
+        ],
+        "price": 15199,
+        "weight": 272,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "4521329362342",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      }
+    ],
+    "images": [
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/JP-SV8A.jpg?v=1740925100"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0617/3979/4509/files/JP-SV8A.jpg?v=1740925100",
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "url": "/products/terastal-festival-booster-box-sv8a",
+    "media": [
+      {
+        "alt": "Image for Japanese (SV8A) Terastal Festival Booster Pack",
+        "id": 24793105432653,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/JP-SV8A.jpg?v=1740925100"
+        },
+        "aspect_ratio": 1.0,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/JP-SV8A.jpg?v=1740925100",
+        "width": 1000
+      }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "_category": "pokemon-japanese",
+    "_local_image": "/images/products/terastal-festival-booster-box-sv8a.jpg"
+  },
+  {
+    "id": 7890745393229,
+    "title": "Chinese Gemstones Badge Set Pack",
+    "handle": "chinese-gemstones-badge-set-pack",
+    "description": "<p>Purchase 12 to receive a sealed display.</p>\n<p><strong>Release Date:</strong> January 16, 2026<br><strong>Language:</strong> Simplified Chinese<br><strong>Condition:</strong> Factory Sealed</p>\n<p><strong>Contents:</strong></p>\n<ul>\n<li>\n<p>1 Pok\u00e9mon Gem Pack Vol. 1 pack \u2014 4 cards per pack</p>\n</li>\n<li>\n<p>1 Pok\u00e9mon Gem Pack Vol. 2 pack \u2014 4 cards per pack</p>\n</li>\n<li>\n<p>1 Pok\u00e9mon Gem Pack Vol. 3 pack \u2014 4 cards per pack</p>\n</li>\n<li>\n<p>1 set-exclusive Gem Pack foil card \u2014 3 possible designs, randomly selected</p>\n</li>\n<li>\n<p>1 Gem Pack-themed badge \u2014 47 possible designs</p>\n</li>\n</ul>\n<p><strong>Badge Rarity Breakdown:</strong></p>\n<ul>\n<li>\n<p>43 regular designs</p>\n</li>\n<li>\n<p>3 hidden designs</p>\n</li>\n<li>\n<p>1 super-hidden design</p>\n</li>\n<li>\n<p>Regular, hidden, and super-hidden pull ratio: 193:6:1</p>\n</li>\n</ul>",
+    "published_at": "2026-07-12T17:38:15-04:00",
+    "created_at": "2026-07-12T17:26:18-04:00",
+    "vendor": "Grandad's Cards",
+    "type": "Chinese Pokemon Misc.",
+    "tags": [
+      "Chinese Pokemon",
+      "Chinese Sealed",
+      "Eevee",
+      "new-product",
+      "online-in-stock",
+      "recently restocked"
+    ],
+    "price": 2499,
+    "price_min": 2499,
+    "price_max": 2499,
+    "available": true,
+    "price_varies": false,
+    "compare_at_price": null,
+    "compare_at_price_min": 0,
+    "compare_at_price_max": 0,
+    "compare_at_price_varies": false,
+    "variants": [
+      {
+        "id": 43236143693901,
+        "title": "Default Title",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "CHPK-GemstonesBadge",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "name": "Chinese Gemstones Badge Set Pack",
+        "public_title": null,
+        "options": [
+          "Default Title"
+        ],
+        "price": 2499,
+        "weight": 227,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "6942600400313",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      }
+    ],
+    "images": [
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitled_design_-_2026-07-12T172806.456.png?v=1783891826",
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172724.png?v=1783891844",
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172815.png?v=1783891844",
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172824.png?v=1783891844",
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172831.png?v=1783891843",
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172845.png?v=1783891844",
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172851.png?v=1783891843",
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172900.png?v=1783891843"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitled_design_-_2026-07-12T172806.456.png?v=1783891826",
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "url": "/products/chinese-gemstones-badge-set-pack",
+    "media": [
+      {
+        "alt": null,
+        "id": 27654854049869,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitled_design_-_2026-07-12T172806.456.png?v=1783891826"
+        },
+        "aspect_ratio": 1.0,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitled_design_-_2026-07-12T172806.456.png?v=1783891826",
+        "width": 1000
+      },
+      {
+        "alt": null,
+        "id": 27654855196749,
+        "position": 2,
+        "preview_image": {
+          "aspect_ratio": 0.485,
+          "height": 926,
+          "width": 449,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172724.png?v=1783891844"
+        },
+        "aspect_ratio": 0.485,
+        "height": 926,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172724.png?v=1783891844",
+        "width": 449
+      },
+      {
+        "alt": null,
+        "id": 27654855163981,
+        "position": 3,
+        "preview_image": {
+          "aspect_ratio": 0.53,
+          "height": 931,
+          "width": 493,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172815.png?v=1783891844"
+        },
+        "aspect_ratio": 0.53,
+        "height": 931,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172815.png?v=1783891844",
+        "width": 493
+      },
+      {
+        "alt": null,
+        "id": 27654855131213,
+        "position": 4,
+        "preview_image": {
+          "aspect_ratio": 0.528,
+          "height": 921,
+          "width": 486,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172824.png?v=1783891844"
+        },
+        "aspect_ratio": 0.528,
+        "height": 921,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172824.png?v=1783891844",
+        "width": 486
+      },
+      {
+        "alt": null,
+        "id": 27654855065677,
+        "position": 5,
+        "preview_image": {
+          "aspect_ratio": 0.531,
+          "height": 925,
+          "width": 491,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172831.png?v=1783891843"
+        },
+        "aspect_ratio": 0.531,
+        "height": 925,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172831.png?v=1783891843",
+        "width": 491
+      },
+      {
+        "alt": null,
+        "id": 27654855098445,
+        "position": 6,
+        "preview_image": {
+          "aspect_ratio": 1.336,
+          "height": 589,
+          "width": 787,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172845.png?v=1783891844"
+        },
+        "aspect_ratio": 1.336,
+        "height": 589,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172845.png?v=1783891844",
+        "width": 787
+      },
+      {
+        "alt": null,
+        "id": 27654855032909,
+        "position": 7,
+        "preview_image": {
+          "aspect_ratio": 3.092,
+          "height": 141,
+          "width": 436,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172851.png?v=1783891843"
+        },
+        "aspect_ratio": 3.092,
+        "height": 141,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172851.png?v=1783891843",
+        "width": 436
+      },
+      {
+        "alt": null,
+        "id": 27654855000141,
+        "position": 8,
+        "preview_image": {
+          "aspect_ratio": 1.019,
+          "height": 359,
+          "width": 366,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172900.png?v=1783891843"
+        },
+        "aspect_ratio": 1.019,
+        "height": 359,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Screenshot_2026-07-12_172900.png?v=1783891843",
+        "width": 366
+      }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "_category": "pokemon-chinese",
+    "_local_image": "/images/products/chinese-gemstones-badge-set-pack.png"
+  },
+  {
+    "id": 7849359966285,
+    "title": "Chinese Terastal Gathering Booster Box - CSV9.5C",
+    "handle": "chinese-terastal-gathering-booster-box-csv9-5c",
+    "description": "<p>Box | 10 Packs</p>\n<p>Pack | 10 Cards</p>\n<p>\u00a0</p>",
+    "published_at": "2026-06-17T11:57:23-04:00",
+    "created_at": "2026-06-11T13:49:33-04:00",
+    "vendor": "Grandad's Cards",
+    "type": "Chinese Booster Box",
+    "tags": [
+      "Chinese Booster Box",
+      "Chinese Pokemon",
+      "online-in-stock"
+    ],
+    "price": 9999,
+    "price_min": 9999,
+    "price_max": 9999,
+    "available": true,
+    "price_varies": false,
+    "compare_at_price": null,
+    "compare_at_price_min": 0,
+    "compare_at_price_max": 0,
+    "compare_at_price_varies": false,
+    "variants": [
+      {
+        "id": 43118300725325,
+        "title": "Default Title",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "CHPK-CSV95CBB",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "name": "Chinese Terastal Gathering Booster Box - CSV9.5C",
+        "public_title": null,
+        "options": [
+          "Default Title"
+        ],
+        "price": 9999,
+        "weight": 454,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "6978372718882",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      }
+    ],
+    "images": [
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitleddesign-2026-06-17T074422.895_b7f8e922-1db6-4134-98c1-aeac001ddb57.png?v=1781697575"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitleddesign-2026-06-17T074422.895_b7f8e922-1db6-4134-98c1-aeac001ddb57.png?v=1781697575",
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "url": "/products/chinese-terastal-gathering-booster-box-csv9-5c",
+    "media": [
+      {
+        "alt": null,
+        "id": 27430398197837,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitleddesign-2026-06-17T074422.895_b7f8e922-1db6-4134-98c1-aeac001ddb57.png?v=1781697575"
+        },
+        "aspect_ratio": 1.0,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitleddesign-2026-06-17T074422.895_b7f8e922-1db6-4134-98c1-aeac001ddb57.png?v=1781697575",
+        "width": 1000
+      }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "_category": "pokemon-chinese",
+    "_local_image": "/images/products/chinese-terastal-gathering-booster-box-csv9-5c.png"
+  },
+  {
+    "id": 7575879745613,
+    "title": "League Battle Deck [Team Rocket's Mewtwo ex]",
+    "handle": "league-battle-deck-team-rockets-mewtwo-ex-1",
+    "description": "<table class=\"singles-description-table\" xmlns=\"http://www.w3.org/1999/html\">\n<tbody>\n<tr>\n<td>Card Text:</td>\n<td>Team Rocket's Mewtwo ex Commands an Army of Powerful Pok\u00e9mon! <br><br>In this box, you'll find: <br>1 ready-to-play 60-card deck. <br>6 damage-counter dice. <br>1 coin-flip die. <br>2 coin condition markers. <br>1 deck box. <br>1 strategy sheet. <br>1 code card to play this deck online.</td>\n</tr>\n<tr>\n<td>UPC:</td>\n<td>196214118898</td>\n</tr>\n<tr>\n<td>Set:</td>\n<td>Miscellaneous Cards &amp; Products</td>\n</tr>\n<tr>\n<td>Rarity:</td>\n<td>sealed</td>\n</tr>\n</tbody>\n</table>\n<div class=\"catalogMetaData\" style=\"visibility: hidden;\" data-cardtype=\"pokemon\" data-cardid=\"5\" data-tcgid=\"654567\" data-lastupdated=\"2025-09-28T10:21:57.340365\"><br></div>",
+    "published_at": "2025-12-09T22:28:03-05:00",
+    "created_at": "2025-09-28T06:28:28-04:00",
+    "vendor": "Pokemon",
+    "type": "Pokemon Sealed",
+    "tags": [
+      "MCAP",
+      "Miscellaneous Cards Products",
+      "online-in-stock",
+      "Overstock",
+      "Pokemon Sealed",
+      "sealed"
+    ],
+    "price": 2399,
+    "price_min": 2399,
+    "price_max": 2399,
+    "available": true,
+    "price_varies": false,
+    "compare_at_price": null,
+    "compare_at_price_min": 0,
+    "compare_at_price_max": 0,
+    "compare_at_price_varies": false,
+    "variants": [
+      {
+        "id": 42137995903053,
+        "title": "Sealed",
+        "option1": "Sealed",
+        "option2": null,
+        "option3": null,
+        "sku": "8938308",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "name": "League Battle Deck [Team Rocket's Mewtwo ex] - Sealed",
+        "public_title": "Sealed",
+        "options": [
+          "Sealed"
+        ],
+        "price": 2399,
+        "weight": 907,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "196214118898",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      }
+    ],
+    "images": [
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/654567_53a16ae1-5628-481e-87d6-0fc26ea3160a.jpg?v=1759055311"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0617/3979/4509/files/654567_53a16ae1-5628-481e-87d6-0fc26ea3160a.jpg?v=1759055311",
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Sealed"
+        ]
+      }
+    ],
+    "url": "/products/league-battle-deck-team-rockets-mewtwo-ex-1",
+    "media": [
+      {
+        "alt": "Image for League Battle Deck [Team Rocket's Mewtwo ex] - Pokemon",
+        "id": 25700593270861,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.896,
+          "height": 1005,
+          "width": 900,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/654567_53a16ae1-5628-481e-87d6-0fc26ea3160a.jpg?v=1759055311"
+        },
+        "aspect_ratio": 0.896,
+        "height": 1005,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/654567_53a16ae1-5628-481e-87d6-0fc26ea3160a.jpg?v=1759055311",
+        "width": 900
+      }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "_category": "pokemon-english",
+    "_local_image": "/images/products/league-battle-deck-team-rockets-mewtwo-ex-1.jpg"
+  },
+  {
+    "id": 7395602432077,
+    "title": "One Piece The Best - PRB-01",
+    "handle": "one-piece-the-best-prb-01",
+    "description": "<p>Released February 24, 2024<br data-start=\"2545\" data-end=\"2548\">Includes 10 packs per box | 10 cards per pack</p>",
+    "published_at": "2026-05-22T15:36:08-04:00",
+    "created_at": "2024-12-22T07:29:41-05:00",
+    "vendor": "Grandad's Cards",
+    "type": "Japanese One Piece Booster Box",
+    "tags": [
+      "One Piece JPN",
+      "online-in-stock",
+      "oos-online"
+    ],
+    "price": 16499,
+    "price_min": 16499,
+    "price_max": 16499,
+    "available": true,
+    "price_varies": false,
+    "compare_at_price": null,
+    "compare_at_price_min": 0,
+    "compare_at_price_max": 0,
+    "compare_at_price_varies": false,
+    "variants": [
+      {
+        "id": 41684110999629,
+        "title": "Default Title",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "JPOP-PRB01",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "name": "One Piece The Best - PRB-01",
+        "public_title": null,
+        "options": [
+          "Default Title"
+        ],
+        "price": 16499,
+        "weight": 454,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "4570118259509",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      }
+    ],
+    "images": [
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/JP-PRB01.jpg?v=1740916993"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0617/3979/4509/files/JP-PRB01.jpg?v=1740916993",
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "url": "/products/one-piece-the-best-prb-01",
+    "media": [
+      {
+        "alt": "Image for Japanese (PRB-01) The Best Booster Pack",
+        "id": 24793076727885,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/JP-PRB01.jpg?v=1740916993"
+        },
+        "aspect_ratio": 1.0,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/JP-PRB01.jpg?v=1740916993",
+        "width": 1000
+      }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "_category": "one-piece",
+    "_local_image": "/images/products/one-piece-the-best-prb-01.jpg"
+  },
+  {
+    "id": 7395602301005,
+    "title": "One Piece The Four Emperors - OP-09",
+    "handle": "one-piece-the-four-emperors-op-09",
+    "description": "<p>Released December 13, 2024<br data-start=\"1686\" data-end=\"1689\">Includes 24 packs per box | 6 cards per pack</p>",
+    "published_at": "2026-05-14T09:56:14-04:00",
+    "created_at": "2024-12-22T07:29:40-05:00",
+    "vendor": "Grandad's Cards",
+    "type": "Japanese One Piece Booster Box",
+    "tags": [
+      "One Piece JPN",
+      "online-in-stock"
+    ],
+    "price": 13099,
+    "price_min": 13099,
+    "price_max": 13099,
+    "available": true,
+    "price_varies": false,
+    "compare_at_price": null,
+    "compare_at_price_min": 0,
+    "compare_at_price_max": 0,
+    "compare_at_price_varies": false,
+    "variants": [
+      {
+        "id": 41661306077261,
+        "title": "Default Title",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "JPOP-09",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "name": "One Piece The Four Emperors - OP-09",
+        "public_title": null,
+        "options": [
+          "Default Title"
+        ],
+        "price": 13099,
+        "weight": 680,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "4570118259493",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      }
+    ],
+    "images": [
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/JP-OP09.jpg?v=1740916545"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0617/3979/4509/files/JP-OP09.jpg?v=1740916545",
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "url": "/products/one-piece-the-four-emperors-op-09",
+    "media": [
+      {
+        "alt": "Image for Japanese (OP-09) The Four Emperors Booster Pack",
+        "id": 24793071157325,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/JP-OP09.jpg?v=1740916545"
+        },
+        "aspect_ratio": 1.0,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/JP-OP09.jpg?v=1740916545",
+        "width": 1000
+      }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "_category": "one-piece",
+    "_local_image": "/images/products/one-piece-the-four-emperors-op-09.jpg"
+  },
+  {
+    "id": 7840312950861,
+    "title": "Marvel Super Heroes Commander Deck - Avengers Assemble",
+    "handle": "marvel-super-heroes-commander-deck-avengers-assemble",
+    "description": "<table class=\"singles-description-table\" xmlns=\"http://www.w3.org/1999/html\">\n<tbody>\n  <tr>\n      <td>Rules Text Contains:</td>\n      <td>Commander decks are ready to play right out of the box and contain everything you need to play Magic's most popular multiplayer format. Magic: The Gathering | Marvel Super Heroes features four different Commander deck versions.\r\n<br>\r\n<strong>More about Magic: The Gathering | Marvel Super Heroes</strong>\r\n<br>\r\nThe Marvel Universe has arrived in full force! An all-star roster of heavy hitters jumps from the comics to the battlefield, and the fate of the world hangs in the balance. Build your dream super team of Heroes and Villains, then suit them up with iconic gear and unleash their earthshaking abilities. Soar, strike, and smash your way to victory in Magic: The Gathering | Marvel Super Heroes!\r\n<br>\r\n\u00a9 2026 MARVEL | TM &amp; \u00a9 2026 Wizards of the Coast LLC\r\n<br>\r\nContents:\r\n<br>\u2022 1 ready-to-play deck of 100 Magic cards\r\n<br>\u2022 30 new-to-Magic cards\r\n<br>\u2022 10 double-sided token cards\r\n<br>\u2022 Deck box\r\n<br>\u2022 Strategy insert\r\n<br>\u2022 Reference card</td>\n  </tr>\n  <tr>\n      <td>UPC:</td>\n      <td>195166313009</td>\n  </tr>\n  <tr>\n      <td>Set:</td>\n      <td>Commander: Marvel Super Heroes</td>\n  </tr>\n  <tr>\n      <td>Rarity:</td>\n      <td>sealed</td>\n  </tr>\n</tbody>\n</table>\n    <div class=\"catalogMetaData\" style=\"visibility: hidden;\" data-cardtype=\"mtg\" data-cardid=\"5\" data-tcgid=\"675634\" data-lastupdated=\"2026-06-03T17:42:27.606644\">\n    </div>\n    ",
+    "published_at": "2026-06-03T13:42:47-04:00",
+    "created_at": "2026-06-03T13:42:37-04:00",
+    "vendor": "Magic: The Gathering",
+    "type": "MTG Sealed",
+    "tags": [
+      "Commander Marvel Super Heroes",
+      "MSC",
+      "MTG Sealed",
+      "online-in-stock",
+      "sealed"
+    ],
+    "price": 5999,
+    "price_min": 5999,
+    "price_max": 5999,
+    "available": true,
+    "price_varies": false,
+    "compare_at_price": null,
+    "compare_at_price_min": 0,
+    "compare_at_price_max": 0,
+    "compare_at_price_varies": false,
+    "variants": [
+      {
+        "id": 43091116818509,
+        "title": "Sealed",
+        "option1": "Sealed",
+        "option2": null,
+        "option3": null,
+        "sku": "9122827",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "name": "Marvel Super Heroes Commander Deck - Avengers Assemble - Sealed",
+        "public_title": "Sealed",
+        "options": [
+          "Sealed"
+        ],
+        "price": 5999,
+        "weight": 0,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "195166313009",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      }
+    ],
+    "images": [
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/675634.jpg?v=1780508560"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0617/3979/4509/files/675634.jpg?v=1780508560",
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Sealed"
+        ]
+      }
+    ],
+    "url": "/products/marvel-super-heroes-commander-deck-avengers-assemble",
+    "media": [
+      {
+        "alt": "Image for Marvel Super Heroes Commander Deck - Avengers Assemble - Magic: The Gathering",
+        "id": 27313298243661,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.691,
+          "height": 1302,
+          "width": 900,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/675634.jpg?v=1780508560"
+        },
+        "aspect_ratio": 0.691,
+        "height": 1302,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/675634.jpg?v=1780508560",
+        "width": 900
+      }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "_category": "magic-the-gathering",
+    "_local_image": "/images/products/marvel-super-heroes-commander-deck-avengers-assemble.jpg"
+  },
+  {
+    "id": 7840312787021,
+    "title": "Marvel Super Heroes Commander Deck - Wakanda Forever",
+    "handle": "marvel-super-heroes-commander-deck-wakanda-forever",
+    "description": "<table class=\"singles-description-table\" xmlns=\"http://www.w3.org/1999/html\">\n<tbody>\n  <tr>\n      <td>Rules Text Contains:</td>\n      <td>Commander decks are ready to play right out of the box and contain everything you need to play Magic's most popular multiplayer format. Magic: The Gathering | Marvel Super Heroes features four different Commander deck versions.\r\n<br>\r\n<strong>More about Magic: The Gathering | Marvel Super Heroes</strong>\r\n<br>\r\nThe Marvel Universe has arrived in full force! An all-star roster of heavy hitters jumps from the comics to the battlefield, and the fate of the world hangs in the balance. Build your dream super team of Heroes and Villains, then suit them up with iconic gear and unleash their earthshaking abilities. Soar, strike, and smash your way to victory in Magic: The Gathering | Marvel Super Heroes!\r\n<br>\r\n\u00a9 2026 MARVEL | TM &amp; \u00a9 2026 Wizards of the Coast LLC\r\n<br>\r\nContents:\r\n<br>\u2022 1 ready-to-play deck of 100 Magic cards\r\n<br>\u2022 30 new-to-Magic cards\r\n<br>\u2022 10 double-sided token cards\r\n<br>\u2022 Deck box\r\n<br>\u2022 Strategy insert\r\n<br>\u2022 Reference card</td>\n  </tr>\n  <tr>\n      <td>UPC:</td>\n      <td>195166313009</td>\n  </tr>\n  <tr>\n      <td>Set:</td>\n      <td>Commander: Marvel Super Heroes</td>\n  </tr>\n  <tr>\n      <td>Rarity:</td>\n      <td>sealed</td>\n  </tr>\n</tbody>\n</table>\n    <div class=\"catalogMetaData\" style=\"visibility: hidden;\" data-cardtype=\"mtg\" data-cardid=\"5\" data-tcgid=\"675633\" data-lastupdated=\"2026-06-03T17:42:27.606611\">\n    </div>\n    ",
+    "published_at": "2026-06-03T13:42:45-04:00",
+    "created_at": "2026-06-03T13:42:37-04:00",
+    "vendor": "Magic: The Gathering",
+    "type": "MTG Sealed",
+    "tags": [
+      "Commander Marvel Super Heroes",
+      "MSC",
+      "MTG Sealed",
+      "online-in-stock",
+      "sealed"
+    ],
+    "price": 5499,
+    "price_min": 5499,
+    "price_max": 5499,
+    "available": true,
+    "price_varies": false,
+    "compare_at_price": null,
+    "compare_at_price_min": 0,
+    "compare_at_price_max": 0,
+    "compare_at_price_varies": false,
+    "variants": [
+      {
+        "id": 43091116261453,
+        "title": "Sealed",
+        "option1": "Sealed",
+        "option2": null,
+        "option3": null,
+        "sku": "9122826",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "name": "Marvel Super Heroes Commander Deck - Wakanda Forever - Sealed",
+        "public_title": "Sealed",
+        "options": [
+          "Sealed"
+        ],
+        "price": 5499,
+        "weight": 1000,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "195166313009",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      }
+    ],
+    "images": [
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/675633.jpg?v=1780508560"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0617/3979/4509/files/675633.jpg?v=1780508560",
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Sealed"
+        ]
+      }
+    ],
+    "url": "/products/marvel-super-heroes-commander-deck-wakanda-forever",
+    "media": [
+      {
+        "alt": "Image for Marvel Super Heroes Commander Deck - Wakanda Forever - Magic: The Gathering",
+        "id": 27313298079821,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.691,
+          "height": 1302,
+          "width": 900,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/675633.jpg?v=1780508560"
+        },
+        "aspect_ratio": 0.691,
+        "height": 1302,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/675633.jpg?v=1780508560",
+        "width": 900
+      }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "_category": "magic-the-gathering",
+    "_local_image": "/images/products/marvel-super-heroes-commander-deck-wakanda-forever.jpg"
+  },
+  {
+    "id": 7819802738765,
+    "title": "Death from Below (186/219) (Foil) (Unleashed)",
+    "handle": "death-from-below-186-219-foil-unleashed",
+    "description": "<table class=\"singles-description-table\" xmlns=\"http://www.w3.org/1999/html\">\n<tbody>\n  <tr>\n      <td>Rarity:</td>\n      <td>Epic</td>\n  </tr>\n  <tr>\n      <td>Number:</td>\n      <td>186/219</td>\n  </tr>\n  <tr>\n      <td>Description:</td>\n      <td>Kill a unit at a battlefield. Then, if it had 3 Might or less, you may play this from your trash for 1 Rune.</td>\n  </tr>\n  <tr>\n      <td>Energy Cost:</td>\n      <td>4</td>\n  </tr>\n  <tr>\n      <td>Power Cost:</td>\n      <td>1</td>\n  </tr>\n  <tr>\n      <td>Card Type:</td>\n      <td>Signature Spell</td>\n  </tr>\n  <tr>\n      <td>Tag:</td>\n      <td>Pyke</td>\n  </tr>\n  <tr>\n      <td>Domain:</td>\n      <td>Fury;Chaos</td>\n  </tr>\n  <tr>\n      <td>Flavor Text:</td>\n      <td><em>\"Keep a man down long enough, and the gutter becomes his kingdom.\"\r\n<br>\r\n\u2014Pyke</em></td>\n  </tr>\n  <tr>\n      <td>Set:</td>\n      <td>Unleashed</td>\n  </tr>\n</tbody>\n</table>\n    <div class=\"catalogMetaData\" style=\"visibility: hidden;\" data-cardtype=\"other\" data-cardid=\"5\" data-tcgid=\"685675\" data-lastupdated=\"2026-05-20T12:35:53.354304\">\n    </div>\n    ",
+    "published_at": "2026-05-20T17:16:20-04:00",
+    "created_at": "2026-05-20T08:35:55-04:00",
+    "vendor": "Riftbound: League of Legends Trading Card Game",
+    "type": "Riftbound: League of Legends Trading Card Game Single",
+    "tags": [
+      "186219",
+      "Epic",
+      "online-in-stock",
+      "Riftbound League of Legends Trading Card Game Single",
+      "UNL",
+      "Unleashed"
+    ],
+    "price": 99,
+    "price_min": 99,
+    "price_max": 99,
+    "available": true,
+    "price_varies": false,
+    "compare_at_price": null,
+    "compare_at_price_min": 0,
+    "compare_at_price_max": 0,
+    "compare_at_price_varies": false,
+    "variants": [
+      {
+        "id": 43015452131405,
+        "title": "Near Mint - Foil",
+        "option1": "Near Mint - Foil",
+        "option2": null,
+        "option3": null,
+        "sku": "9198159",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "name": "Death from Below (186/219) (Foil) (Unleashed) - Near Mint - Foil",
+        "public_title": "Near Mint - Foil",
+        "options": [
+          "Near Mint - Foil"
+        ],
+        "price": 99,
+        "weight": 2,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "9198159",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      },
+      {
+        "id": 43015452164173,
+        "title": "Lightly Played - Foil",
+        "option1": "Lightly Played - Foil",
+        "option2": null,
+        "option3": null,
+        "sku": "9198160",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "name": "Death from Below (186/219) (Foil) (Unleashed) - Lightly Played - Foil",
+        "public_title": "Lightly Played - Foil",
+        "options": [
+          "Lightly Played - Foil"
+        ],
+        "price": 99,
+        "weight": 2,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "9198160",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      },
+      {
+        "id": 43015452196941,
+        "title": "Moderately Played - Foil",
+        "option1": "Moderately Played - Foil",
+        "option2": null,
+        "option3": null,
+        "sku": "9198161",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "name": "Death from Below (186/219) (Foil) (Unleashed) - Moderately Played - Foil",
+        "public_title": "Moderately Played - Foil",
+        "options": [
+          "Moderately Played - Foil"
+        ],
+        "price": 99,
+        "weight": 2,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "9198161",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      },
+      {
+        "id": 43015452229709,
+        "title": "Heavily Played - Foil",
+        "option1": "Heavily Played - Foil",
+        "option2": null,
+        "option3": null,
+        "sku": "9198162",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "name": "Death from Below (186/219) (Foil) (Unleashed) - Heavily Played - Foil",
+        "public_title": "Heavily Played - Foil",
+        "options": [
+          "Heavily Played - Foil"
+        ],
+        "price": 99,
+        "weight": 2,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "9198162",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      },
+      {
+        "id": 43015452262477,
+        "title": "Damaged - Foil",
+        "option1": "Damaged - Foil",
+        "option2": null,
+        "option3": null,
+        "sku": "9198163",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "name": "Death from Below (186/219) (Foil) (Unleashed) - Damaged - Foil",
+        "public_title": "Damaged - Foil",
+        "options": [
+          "Damaged - Foil"
+        ],
+        "price": 99,
+        "weight": 2,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "9198163",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      }
+    ],
+    "images": [
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/685675.jpg?v=1779280555"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0617/3979/4509/files/685675.jpg?v=1779280555",
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Near Mint - Foil",
+          "Lightly Played - Foil",
+          "Moderately Played - Foil",
+          "Heavily Played - Foil",
+          "Damaged - Foil"
+        ]
+      }
+    ],
+    "url": "/products/death-from-below-186-219-foil-unleashed",
+    "media": [
+      {
+        "alt": "Death from Below (186/219) (Foil) (Unleashed)",
+        "id": 27187517161549,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.716,
+          "height": 1039,
+          "width": 744,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/685675.jpg?v=1779280555"
+        },
+        "aspect_ratio": 0.716,
+        "height": 1039,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/685675.jpg?v=1779280555",
+        "width": 744
+      }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "_category": "riftbound",
+    "_local_image": "/images/products/death-from-below-186-219-foil-unleashed.jpg"
+  },
+  {
+    "id": 7819805163597,
+    "title": "Keeper's Verdict (204/219) (Foil) (Unleashed)",
+    "handle": "keepers-verdict-204-219-foil-unleashed",
+    "description": "<table class=\"singles-description-table\" xmlns=\"http://www.w3.org/1999/html\">\n<tbody>\n  <tr>\n      <td>Rarity:</td>\n      <td>Epic</td>\n  </tr>\n  <tr>\n      <td>Number:</td>\n      <td>204/219</td>\n  </tr>\n  <tr>\n      <td>Description:</td>\n      <td>ACTION <em>(Play on your turn or in showdowns.)</em>\r\n<br>\r\nChoose an enemy unit at a battlefield. Its owner places it on the top or bottom of their Main Deck.</td>\n  </tr>\n  <tr>\n      <td>Energy Cost:</td>\n      <td>2</td>\n  </tr>\n  <tr>\n      <td>Power Cost:</td>\n      <td>2</td>\n  </tr>\n  <tr>\n      <td>Card Type:</td>\n      <td>Signature Spell</td>\n  </tr>\n  <tr>\n      <td>Tag:</td>\n      <td>Poppy</td>\n  </tr>\n  <tr>\n      <td>Domain:</td>\n      <td>Body;Order</td>\n  </tr>\n  <tr>\n      <td>Flavor Text:</td>\n      <td><em>\"And don't come back!\"\r\n<br>\r\n\u2014Poppy</em></td>\n  </tr>\n  <tr>\n      <td>Set:</td>\n      <td>Unleashed</td>\n  </tr>\n</tbody>\n</table>\n    <div class=\"catalogMetaData\" style=\"visibility: hidden;\" data-cardtype=\"other\" data-cardid=\"5\" data-tcgid=\"684625\" data-lastupdated=\"2026-05-20T12:41:31.457890\">\n    </div>\n    ",
+    "published_at": "2026-05-20T17:16:34-04:00",
+    "created_at": "2026-05-20T08:41:33-04:00",
+    "vendor": "Riftbound: League of Legends Trading Card Game",
+    "type": "Riftbound: League of Legends Trading Card Game Single",
+    "tags": [
+      "204219",
+      "Epic",
+      "online-in-stock",
+      "Riftbound League of Legends Trading Card Game Single",
+      "UNL",
+      "Unleashed"
+    ],
+    "price": 99,
+    "price_min": 99,
+    "price_max": 99,
+    "available": true,
+    "price_varies": false,
+    "compare_at_price": null,
+    "compare_at_price_min": 0,
+    "compare_at_price_max": 0,
+    "compare_at_price_varies": false,
+    "variants": [
+      {
+        "id": 43015476084813,
+        "title": "Near Mint - Foil",
+        "option1": "Near Mint - Foil",
+        "option2": null,
+        "option3": null,
+        "sku": "9192052",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "name": "Keeper's Verdict (204/219) (Foil) (Unleashed) - Near Mint - Foil",
+        "public_title": "Near Mint - Foil",
+        "options": [
+          "Near Mint - Foil"
+        ],
+        "price": 99,
+        "weight": 2,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "9192052",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      },
+      {
+        "id": 43015476117581,
+        "title": "Lightly Played - Foil",
+        "option1": "Lightly Played - Foil",
+        "option2": null,
+        "option3": null,
+        "sku": "9192053",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "name": "Keeper's Verdict (204/219) (Foil) (Unleashed) - Lightly Played - Foil",
+        "public_title": "Lightly Played - Foil",
+        "options": [
+          "Lightly Played - Foil"
+        ],
+        "price": 99,
+        "weight": 2,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "9192053",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      },
+      {
+        "id": 43015476150349,
+        "title": "Moderately Played - Foil",
+        "option1": "Moderately Played - Foil",
+        "option2": null,
+        "option3": null,
+        "sku": "9192054",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "name": "Keeper's Verdict (204/219) (Foil) (Unleashed) - Moderately Played - Foil",
+        "public_title": "Moderately Played - Foil",
+        "options": [
+          "Moderately Played - Foil"
+        ],
+        "price": 99,
+        "weight": 2,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "9192054",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      },
+      {
+        "id": 43015476183117,
+        "title": "Heavily Played - Foil",
+        "option1": "Heavily Played - Foil",
+        "option2": null,
+        "option3": null,
+        "sku": "9192055",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "name": "Keeper's Verdict (204/219) (Foil) (Unleashed) - Heavily Played - Foil",
+        "public_title": "Heavily Played - Foil",
+        "options": [
+          "Heavily Played - Foil"
+        ],
+        "price": 99,
+        "weight": 2,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "9192055",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      },
+      {
+        "id": 43015476215885,
+        "title": "Damaged - Foil",
+        "option1": "Damaged - Foil",
+        "option2": null,
+        "option3": null,
+        "sku": "9192056",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "name": "Keeper's Verdict (204/219) (Foil) (Unleashed) - Damaged - Foil",
+        "public_title": "Damaged - Foil",
+        "options": [
+          "Damaged - Foil"
+        ],
+        "price": 99,
+        "weight": 2,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "9192056",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      }
+    ],
+    "images": [
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/684625.jpg?v=1779280893"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0617/3979/4509/files/684625.jpg?v=1779280893",
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Near Mint - Foil",
+          "Lightly Played - Foil",
+          "Moderately Played - Foil",
+          "Heavily Played - Foil",
+          "Damaged - Foil"
+        ]
+      }
+    ],
+    "url": "/products/keepers-verdict-204-219-foil-unleashed",
+    "media": [
+      {
+        "alt": "Keeper's Verdict (204/219) (Foil) (Unleashed)",
+        "id": 27187535380557,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.716,
+          "height": 610,
+          "width": 437,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/684625.jpg?v=1779280893"
+        },
+        "aspect_ratio": 0.716,
+        "height": 610,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/684625.jpg?v=1779280893",
+        "width": 437
+      }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "_category": "riftbound",
+    "_local_image": "/images/products/keepers-verdict-204-219-foil-unleashed.jpg"
+  },
+  {
+    "id": 7571637665869,
+    "title": "Ultra Pro: Standard 3 x 4-Inch Top Loader 25CT",
+    "handle": "ultra-pro-standard-3-x-4-inch-top-loader-25ct",
+    "description": "<p><span>Super clear, regular 3\" x 4\" top loader for standard size cards (2-1/2\" x 3-1/2\"). Rigid plastic encloses card and keeps it clean while preventing damage. 25 top loaders per pack.</span><br><span>Sized to hold 2-1/2\" x 3-1/2\" (63.5mm x 88.9mm) standard size cards. Holds cards up to 35pt thickness. Keeps cards clean. Ultra clear and durable construction. Sized to hold Ultra PRO Premium Cards Sleeves (#81385) and Card Sleeves</span></p>",
+    "published_at": "2026-05-22T15:32:22-04:00",
+    "created_at": "2025-09-22T20:14:37-04:00",
+    "vendor": "Grandad's Cards",
+    "type": "Accessories",
+    "tags": [
+      "online-in-stock"
+    ],
+    "price": 199,
+    "price_min": 199,
+    "price_max": 199,
+    "available": true,
+    "price_varies": false,
+    "compare_at_price": 299,
+    "compare_at_price_min": 299,
+    "compare_at_price_max": 299,
+    "compare_at_price_varies": false,
+    "variants": [
+      {
+        "id": 42125676904525,
+        "title": "Default Title",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "UP-Standard",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "name": "Ultra Pro: Standard 3 x 4-Inch Top Loader 25CT",
+        "public_title": null,
+        "options": [
+          "Default Title"
+        ],
+        "price": 199,
+        "weight": 227,
+        "compare_at_price": 299,
+        "inventory_management": "shopify",
+        "barcode": null,
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      }
+    ],
+    "images": [
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitleddesign-2025-09-22T201337.944.png?v=1758586425"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitleddesign-2025-09-22T201337.944.png?v=1758586425",
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "url": "/products/ultra-pro-standard-3-x-4-inch-top-loader-25ct",
+    "media": [
+      {
+        "alt": "Ultra Pro: Standard 3 x 4-Inch Top Loader 25CT",
+        "id": 25672644722765,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitleddesign-2025-09-22T201337.944.png?v=1758586425"
+        },
+        "aspect_ratio": 1.0,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitleddesign-2025-09-22T201337.944.png?v=1758586425",
+        "width": 1000
+      }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "_category": "accessories",
+    "_local_image": "/images/products/ultra-pro-standard-3-x-4-inch-top-loader-25ct.png"
+  },
+  {
+    "id": 7474535071821,
+    "title": "Dragon Shield Sleeves - Standard Classic - Clear 100CT",
+    "handle": "dragon-shield-sleeves-standard-classic-clear-100ct",
+    "description": "<p><span>Dragon Shield Standard Classic is the original Dragon Shield sleeve. Smooth with a glossy back and unparalleled seal strength.</span><br><span>The sturdy cardboard box fits 75+ single sleeved cards or 65+ double sleeved cards measuring up to 63 x 88 mm (2.5 x 3.5\"), for games like MTG, Pokemon, Flesh and Blood, and Lorcana! Every box has a label at the top of the box for personalization.</span></p>",
+    "published_at": "2026-05-22T15:34:31-04:00",
+    "created_at": "2025-04-27T22:45:05-04:00",
+    "vendor": "Grandad's Cards",
+    "type": "Accessories",
+    "tags": [
+      "online-in-stock",
+      "Overstock"
+    ],
+    "price": 999,
+    "price_min": 999,
+    "price_max": 999,
+    "available": true,
+    "price_varies": false,
+    "compare_at_price": null,
+    "compare_at_price_min": 0,
+    "compare_at_price_max": 0,
+    "compare_at_price_varies": false,
+    "variants": [
+      {
+        "id": 41756328263757,
+        "title": "Default Title",
+        "option1": "Default Title",
+        "option2": null,
+        "option3": null,
+        "sku": "",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "name": "Dragon Shield Sleeves - Standard Classic - Clear 100CT",
+        "public_title": null,
+        "options": [
+          "Default Title"
+        ],
+        "price": 999,
+        "weight": 272,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "5706569100018",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      }
+    ],
+    "images": [
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitleddesign-2025-04-27T224107.615.png?v=1745808074"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitleddesign-2025-04-27T224107.615.png?v=1745808074",
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Default Title"
+        ]
+      }
+    ],
+    "url": "/products/dragon-shield-sleeves-standard-classic-clear-100ct",
+    "media": [
+      {
+        "alt": "Dragon Shield Sleeves - Standard Classic - Clear 100CT",
+        "id": 25001771958349,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 1.0,
+          "height": 1000,
+          "width": 1000,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitleddesign-2025-04-27T224107.615.png?v=1745808074"
+        },
+        "aspect_ratio": 1.0,
+        "height": 1000,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/Untitleddesign-2025-04-27T224107.615.png?v=1745808074",
+        "width": 1000
+      }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "_category": "accessories",
+    "_local_image": "/images/products/dragon-shield-sleeves-standard-classic-clear-100ct.png"
+  },
+  {
+    "id": 7714628370509,
+    "title": "Mega Gengar ex (284/217) (Holofoil) (ME: Ascended Heroes)",
+    "handle": "mega-gengar-ex-284-217-holofoil-me-ascended-heroes",
+    "description": "<table class=\"singles-description-table\" xmlns=\"http://www.w3.org/1999/html\">\n<tbody>\n      <tr>\n          <td>Card Number:</td>\n          <td>284/217</td>\n      </tr>\n      <tr>\n          <td>Rarity:</td>\n          <td>Special Illustration Rare</td>\n      </tr>\n      <tr>\n          <td>Card Type:</td>\n          <td>Darkness</td>\n      </tr>\n      <tr>\n          <td>HP:</td>\n          <td>350</td>\n      </tr>\n      <tr>\n          <td>Stage:</td>\n          <td>Stage 2</td>\n      </tr>\n      <tr>\n          <td>Card Text:</td>\n          <td>\n<strong>Ability: Shadowy Concealment</strong> If 1 of your Darkness Pokemon is Knocked Out by damage from an attack from your opponent's Pokemon ex, that player takes 1 fewer Prize card. The effect of Shadowy Concealment doesn't stack.</td>\n      </tr>\n      <tr>\n          <td>Attack 1:</td>\n          <td>[DD] Void Gale (230)<br> Move an Energy from this Pokemon to 1 of your Benched Pokemon.</td>\n      </tr>\n      <tr>\n          <td>Weakness:</td>\n          <td>Fx2</td>\n      </tr>\n      <tr>\n          <td>Retreat Cost:</td>\n          <td>2</td>\n      </tr>\n      <tr>\n          <td>Set:</td>\n          <td>ME: Ascended Heroes</td>\n      </tr>\n      <tr>\n          <td>Number:</td>\n          <td>284/217</td>\n      </tr>\n</tbody>\n</table>\n        <div class=\"catalogMetaData\" style=\"visibility: hidden;\" data-cardtype=\"pokemon\" data-cardid=\"5\" data-tcgid=\"676096\" data-lastupdated=\"2026-03-01T02:52:03.740535\">\n        </div>\n        ",
+    "published_at": "2026-07-04T15:51:28-04:00",
+    "created_at": "2026-02-28T22:00:21-05:00",
+    "vendor": "Pokemon",
+    "type": "Pokemon Single",
+    "tags": [
+      "284217",
+      "ASC",
+      "back-in-stock-long",
+      "ME Ascended Heroes",
+      "online-in-stock",
+      "Pokemon Single",
+      "recently restocked",
+      "Special Illustration Rare"
+    ],
+    "price": 64899,
+    "price_min": 64899,
+    "price_max": 133699,
+    "available": true,
+    "price_varies": true,
+    "compare_at_price": null,
+    "compare_at_price_min": 0,
+    "compare_at_price_max": 0,
+    "compare_at_price_varies": false,
+    "variants": [
+      {
+        "id": 42725639880781,
+        "title": "Near Mint - Holofoil",
+        "option1": "Near Mint - Holofoil",
+        "option2": null,
+        "option3": null,
+        "sku": "9126027",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "name": "Mega Gengar ex (284/217) (Holofoil) (ME: Ascended Heroes) - Near Mint - Holofoil",
+        "public_title": "Near Mint - Holofoil",
+        "options": [
+          "Near Mint - Holofoil"
+        ],
+        "price": 133699,
+        "weight": 0,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "9126027",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      },
+      {
+        "id": 42725639913549,
+        "title": "Lightly Played - Holofoil",
+        "option1": "Lightly Played - Holofoil",
+        "option2": null,
+        "option3": null,
+        "sku": "9126028",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "name": "Mega Gengar ex (284/217) (Holofoil) (ME: Ascended Heroes) - Lightly Played - Holofoil",
+        "public_title": "Lightly Played - Holofoil",
+        "options": [
+          "Lightly Played - Holofoil"
+        ],
+        "price": 97399,
+        "weight": 0,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "9126028",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      },
+      {
+        "id": 42725639946317,
+        "title": "Moderately Played - Holofoil",
+        "option1": "Moderately Played - Holofoil",
+        "option2": null,
+        "option3": null,
+        "sku": "9126029",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "name": "Mega Gengar ex (284/217) (Holofoil) (ME: Ascended Heroes) - Moderately Played - Holofoil",
+        "public_title": "Moderately Played - Holofoil",
+        "options": [
+          "Moderately Played - Holofoil"
+        ],
+        "price": 77899,
+        "weight": 0,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "9126029",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      },
+      {
+        "id": 42725639979085,
+        "title": "Heavily Played - Holofoil",
+        "option1": "Heavily Played - Holofoil",
+        "option2": null,
+        "option3": null,
+        "sku": "9126030",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "name": "Mega Gengar ex (284/217) (Holofoil) (ME: Ascended Heroes) - Heavily Played - Holofoil",
+        "public_title": "Heavily Played - Holofoil",
+        "options": [
+          "Heavily Played - Holofoil"
+        ],
+        "price": 64899,
+        "weight": 0,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "9126030",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      },
+      {
+        "id": 42725640011853,
+        "title": "Damaged - Holofoil",
+        "option1": "Damaged - Holofoil",
+        "option2": null,
+        "option3": null,
+        "sku": "9126031",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "name": "Mega Gengar ex (284/217) (Holofoil) (ME: Ascended Heroes) - Damaged - Holofoil",
+        "public_title": "Damaged - Holofoil",
+        "options": [
+          "Damaged - Holofoil"
+        ],
+        "price": 64899,
+        "weight": 0,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "9126031",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      }
+    ],
+    "images": [
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/676096.jpg?v=1772334023"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0617/3979/4509/files/676096.jpg?v=1772334023",
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Near Mint - Holofoil",
+          "Lightly Played - Holofoil",
+          "Moderately Played - Holofoil",
+          "Heavily Played - Holofoil",
+          "Damaged - Holofoil"
+        ]
+      }
+    ],
+    "url": "/products/mega-gengar-ex-284-217-holofoil-me-ascended-heroes",
+    "media": [
+      {
+        "alt": "Image for Mega Gengar ex (284/217) (Holofoil) (ME: Ascended Heroes) - Pokemon",
+        "id": 26502836027469,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.717,
+          "height": 920,
+          "width": 660,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/676096.jpg?v=1772334023"
+        },
+        "aspect_ratio": 0.717,
+        "height": 920,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/676096.jpg?v=1772334023",
+        "width": 660
+      }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "_category": "pokemon-singles",
+    "_local_image": "/images/products/mega-gengar-ex-284-217-holofoil-me-ascended-heroes.jpg"
+  },
+  {
+    "id": 7595348852813,
+    "title": "Gengar VMAX (Alternate Art Secret) (271/264) (SWSH08: Fusion Strike)",
+    "handle": "gengar-vmax-alternate-art-secret-271-264-swsh08-fusion-strike",
+    "description": "<table class=\"singles-description-table\" xmlns=\"http://www.w3.org/1999/html\">\n<tbody>\n      <tr>\n          <td>Card Number:</td>\n          <td>271/264</td>\n      </tr>\n      <tr>\n          <td>Rarity:</td>\n          <td>Secret Rare</td>\n      </tr>\n      <tr>\n          <td>Card Type:</td>\n          <td>Darkness</td>\n      </tr>\n      <tr>\n          <td>HP:</td>\n          <td>320</td>\n      </tr>\n      <tr>\n          <td>Stage:</td>\n          <td>VMAX</td>\n      </tr>\n      <tr>\n          <td>Attack 1:</td>\n          <td>[DD] Fear and Panic (60x)\r\n<br>This attack does 60 damage for each of your opponent's Pok\u00e9mon V and Pok\u00e9mon-GX in play.</td>\n      </tr>\n      <tr>\n          <td>Attack 2:</td>\n          <td>[DDD] G-Max Swallow up (250)\r\n<br>During your next turn, this Pok\u00e9mon can't attack.</td>\n      </tr>\n      <tr>\n          <td>Weakness:</td>\n          <td>Fx2</td>\n      </tr>\n      <tr>\n          <td>Resistance:</td>\n          <td>None</td>\n      </tr>\n      <tr>\n          <td>Retreat Cost:</td>\n          <td>3</td>\n      </tr>\n      <tr>\n          <td>Set:</td>\n          <td>SWSH08: Fusion Strike</td>\n      </tr>\n      <tr>\n          <td>Number:</td>\n          <td>271/264</td>\n      </tr>\n</tbody>\n</table>\n        <div class=\"catalogMetaData\" style=\"visibility: hidden;\" data-cardtype=\"pokemon\" data-cardid=\"5\" data-tcgid=\"253266\" data-lastupdated=\"2025-10-26T02:23:26.284875\">\n        </div>\n        ",
+    "published_at": "2026-07-06T15:54:08-04:00",
+    "created_at": "2025-10-25T22:47:38-04:00",
+    "vendor": "Pokemon",
+    "type": "Pokemon Single",
+    "tags": [
+      "271264",
+      "back-in-stock-long",
+      "online-in-stock",
+      "Pokemon Single",
+      "Secret Rare",
+      "SWSH08",
+      "SWSH08 Fusion Strike"
+    ],
+    "price": 50799,
+    "price_min": 50799,
+    "price_max": 104599,
+    "available": true,
+    "price_varies": true,
+    "compare_at_price": null,
+    "compare_at_price_min": 0,
+    "compare_at_price_max": 0,
+    "compare_at_price_varies": false,
+    "variants": [
+      {
+        "id": 42312381300813,
+        "title": "Near Mint - Holofoil",
+        "option1": "Near Mint - Holofoil",
+        "option2": null,
+        "option3": null,
+        "sku": "5266265",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "name": "Gengar VMAX (Alternate Art Secret) (271/264) (SWSH08: Fusion Strike) - Near Mint - Holofoil",
+        "public_title": "Near Mint - Holofoil",
+        "options": [
+          "Near Mint - Holofoil"
+        ],
+        "price": 104599,
+        "weight": 0,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "5266265",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      },
+      {
+        "id": 42312381333581,
+        "title": "Lightly Played - Holofoil",
+        "option1": "Lightly Played - Holofoil",
+        "option2": null,
+        "option3": null,
+        "sku": "5266266",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": true,
+        "name": "Gengar VMAX (Alternate Art Secret) (271/264) (SWSH08: Fusion Strike) - Lightly Played - Holofoil",
+        "public_title": "Lightly Played - Holofoil",
+        "options": [
+          "Lightly Played - Holofoil"
+        ],
+        "price": 76199,
+        "weight": 0,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "5266266",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      },
+      {
+        "id": 42312381366349,
+        "title": "Moderately Played - Holofoil",
+        "option1": "Moderately Played - Holofoil",
+        "option2": null,
+        "option3": null,
+        "sku": "5266267",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "name": "Gengar VMAX (Alternate Art Secret) (271/264) (SWSH08: Fusion Strike) - Moderately Played - Holofoil",
+        "public_title": "Moderately Played - Holofoil",
+        "options": [
+          "Moderately Played - Holofoil"
+        ],
+        "price": 60999,
+        "weight": 0,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "5266267",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      },
+      {
+        "id": 42312381399117,
+        "title": "Heavily Played - Holofoil",
+        "option1": "Heavily Played - Holofoil",
+        "option2": null,
+        "option3": null,
+        "sku": "5266268",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "name": "Gengar VMAX (Alternate Art Secret) (271/264) (SWSH08: Fusion Strike) - Heavily Played - Holofoil",
+        "public_title": "Heavily Played - Holofoil",
+        "options": [
+          "Heavily Played - Holofoil"
+        ],
+        "price": 50799,
+        "weight": 0,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "5266268",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      },
+      {
+        "id": 42312381431885,
+        "title": "Damaged - Holofoil",
+        "option1": "Damaged - Holofoil",
+        "option2": null,
+        "option3": null,
+        "sku": "5266269",
+        "requires_shipping": true,
+        "taxable": true,
+        "featured_image": null,
+        "available": false,
+        "name": "Gengar VMAX (Alternate Art Secret) (271/264) (SWSH08: Fusion Strike) - Damaged - Holofoil",
+        "public_title": "Damaged - Holofoil",
+        "options": [
+          "Damaged - Holofoil"
+        ],
+        "price": 50799,
+        "weight": 0,
+        "compare_at_price": null,
+        "inventory_management": "shopify",
+        "barcode": "5266269",
+        "quantity_rule": {
+          "min": 1,
+          "max": null,
+          "increment": 1
+        },
+        "quantity_price_breaks": [],
+        "requires_selling_plan": false,
+        "selling_plan_allocations": []
+      }
+    ],
+    "images": [
+      "//cdn.shopify.com/s/files/1/0617/3979/4509/files/253266.jpg?v=1761446860"
+    ],
+    "featured_image": "//cdn.shopify.com/s/files/1/0617/3979/4509/files/253266.jpg?v=1761446860",
+    "options": [
+      {
+        "name": "Title",
+        "position": 1,
+        "values": [
+          "Near Mint - Holofoil",
+          "Lightly Played - Holofoil",
+          "Moderately Played - Holofoil",
+          "Heavily Played - Holofoil",
+          "Damaged - Holofoil"
+        ]
+      }
+    ],
+    "url": "/products/gengar-vmax-alternate-art-secret-271-264-swsh08-fusion-strike",
+    "media": [
+      {
+        "alt": "Image for Gengar VMAX (Alternate Art Secret) (271/264) (SWSH08: Fusion Strike) - Pokemon",
+        "id": 25826269528141,
+        "position": 1,
+        "preview_image": {
+          "aspect_ratio": 0.719,
+          "height": 1024,
+          "width": 736,
+          "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/253266.jpg?v=1761446860"
+        },
+        "aspect_ratio": 0.719,
+        "height": 1024,
+        "media_type": "image",
+        "src": "https://cdn.shopify.com/s/files/1/0617/3979/4509/files/253266.jpg?v=1761446860",
+        "width": 736
+      }
+    ],
+    "requires_selling_plan": false,
+    "selling_plan_groups": [],
+    "_category": "pokemon-singles",
+    "_local_image": "/images/products/gengar-vmax-alternate-art-secret-271-264-swsh08-fusion-strike.jpg"
+  }
+]

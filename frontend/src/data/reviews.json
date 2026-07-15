@@ -1,0 +1,287 @@
+{
+  "histogram": {
+    "total": 1443,
+    "average": 4.98,
+    "productReviews": 1303,
+    "shopReviews": 140,
+    "breakdown": [
+      {
+        "stars": 5,
+        "count": 1427,
+        "pct": 99
+      },
+      {
+        "stars": 4,
+        "count": 9,
+        "pct": 1
+      },
+      {
+        "stars": 3,
+        "count": 2,
+        "pct": 0
+      },
+      {
+        "stars": 2,
+        "count": 2,
+        "pct": 0
+      },
+      {
+        "stars": 1,
+        "count": 3,
+        "pct": 0
+      }
+    ]
+  },
+  "reviews": [
+    {
+      "id": "0c5e7260-c2b2-4d19-bdb1-dbe098e831a5",
+      "rating": 5,
+      "date": "2026-07-13 00:22:58 UTC",
+      "productTitle": "Abyss Eye Booster Box - M5",
+      "productHandle": "abyss-eye-booster-box-m5-pre-order",
+      "author": "Alan Shapiro",
+      "title": "Pulled the chase out of my abyss eye",
+      "body": "Pulled the chase out of my abyss eye box"
+    },
+    {
+      "id": "ed7c76a4-2b0e-532a-a058-aba70db83972",
+      "rating": 5,
+      "date": "2026-07-12 09:51:32 UTC",
+      "productTitle": "Chinese Eevee's Coin Set",
+      "productHandle": "chinese-eevees-coin-set",
+      "author": "Nickolas DenHartog",
+      "title": "",
+      "body": "Arrived fast after I placed my order online. Was well packaged in the box with the other items! Excited to open this up soon!"
+    },
+    {
+      "id": "a349ae88-756f-5f20-8395-d42ceb5e86c5",
+      "rating": 5,
+      "date": "2026-07-10 02:07:21 UTC",
+      "productTitle": null,
+      "productHandle": null,
+      "author": "andrea",
+      "title": "",
+      "body": "Cards as described. Packaged cards safely. Fair pricing."
+    },
+    {
+      "id": "dd07bc46-4a0d-4f3e-b122-2801753d9256",
+      "rating": 5,
+      "date": "2026-07-10 00:09:08 UTC",
+      "productTitle": "Holly Box Sleepy Eevee and Eeveelutions - Blind Box",
+      "productHandle": "holly-box-sleepy-eevee-and-eeveelutions-blind-box",
+      "author": "Nicholas Stockdale",
+      "title": "Put them on my dashboard",
+      "body": "Put them on my dashboard, and they are so stinking cute"
+    },
+    {
+      "id": "8d5520e4-1ea7-433b-869c-3a17d98c845d",
+      "rating": 5,
+      "date": "2026-07-09 19:35:41 UTC",
+      "productTitle": "50 Card Japanese Art Rare Lot - NO DUPLICATES (BATCH 03-15-2026)",
+      "productHandle": "50-card-japanese-art-rare-lot-no-duplicates",
+      "author": "Jose Gutierrez",
+      "title": "Great cards!",
+      "body": "Great cards for a great price!"
+    },
+    {
+      "id": "af31f45d-ab2b-5004-8c44-c440df4fdf67",
+      "rating": 5,
+      "date": "2026-07-09 15:05:20 UTC",
+      "productTitle": "Abyss Eye Booster Box - M5",
+      "productHandle": "abyss-eye-booster-box-m5-pre-order",
+      "author": "Thomas Do",
+      "title": "",
+      "body": "I ordered 2 boxes and they were not the best packaged but they arrived quickly."
+    },
+    {
+      "id": "f60d9c74-30e4-43b3-8056-a41348c3c40f",
+      "rating": 5,
+      "date": "2026-07-09 10:35:53 UTC",
+      "productTitle": "Special Red Card (113/086) (Holofoil) (ME04: Chaos Rising)",
+      "productHandle": "special-red-card-113-086-holofoil-me04-chaos-rising",
+      "author": "Amanda",
+      "title": "Favorite shop!",
+      "body": "Quality of the card was fantastic and made a great addition to my master set!"
+    },
+    {
+      "id": "d65ce639-f98c-4dd7-823d-8bcf6b0f5af0",
+      "rating": 5,
+      "date": "2026-07-09 02:48:35 UTC",
+      "productTitle": "Marvel Super Heroes - Play Booster Display",
+      "productHandle": "marvel-super-heroes-play-booster-display",
+      "author": "Theodin Powers",
+      "title": "Good store to pick up cards",
+      "body": "Order came in a speedy time and was packaged very well."
+    },
+    {
+      "id": "c0030ea9-24f7-5aef-9028-988cfba53dde",
+      "rating": 5,
+      "date": "2026-07-08 18:04:00 UTC",
+      "productTitle": "Chinese Gem Pack Volume 5 - Booster Box",
+      "productHandle": "chinese-gem-pack-volume-5-booster-box",
+      "author": "David",
+      "title": "",
+      "body": "Fast shipping and the items were well packaged. Very good value for thw price. Smooth process. Definitely will shop from them again."
+    },
+    {
+      "id": "ac26b0d7-9f7c-57aa-af63-dc89951c3283",
+      "rating": 5,
+      "date": "2026-07-08 11:44:17 UTC",
+      "productTitle": "Chinese Gem Pack Volume 5 - Booster Box",
+      "productHandle": "chinese-gem-pack-volume-5-booster-box",
+      "author": "Jack",
+      "title": "",
+      "body": "Super easy to pick up and if you have meet any of the staff, feels like getting cards from your family- they always treat you like a VIP even though some of the workers go there straight after second jobs. Havent been to any other LCSs since."
+    },
+    {
+      "id": "c8620503-00e4-449b-a3d9-54f803261281",
+      "rating": 5,
+      "date": "2026-07-07 23:54:49 UTC",
+      "productTitle": "Espeon ex - 175 (SVP 175) (SV: Scarlet & Violet Promo Cards)",
+      "productHandle": "espeon-ex-175-svp-175-sv-scarlet-violet-promo-cards",
+      "author": "Dave R",
+      "title": "Near mint",
+      "body": "Near mint, great price! Exactly what we were looking for to add to our collection!  \n\n Thanks Gradads!"
+    },
+    {
+      "id": "50c3afec-02be-595a-9dfe-9dae226a4e17",
+      "rating": 3,
+      "date": "2026-07-07 16:41:24 UTC",
+      "productTitle": "Marvel Super Heroes Commander Deck - Doom Prevails",
+      "productHandle": "marvel-super-heroes-commander-deck-doom-prevails",
+      "author": "Daniel",
+      "title": "",
+      "body": "Box was bent up i assume due to mail carrier.\n But zero communication from seller"
+    },
+    {
+      "id": "61428b51-f9ad-5ca0-aacf-d20700ec6155",
+      "rating": 5,
+      "date": "2026-07-07 06:37:42 UTC",
+      "productTitle": "Team Rocket's Mewtwo ex (213/182) (SV10: Destined Rivals)",
+      "productHandle": "team-rockets-mewtwo-ex-213-182-sv10-destined-rivals",
+      "author": "Mara",
+      "title": "",
+      "body": "I love this!"
+    },
+    {
+      "id": "1b114b77-4c82-5d44-a8b2-e10af7f52ad4",
+      "rating": 5,
+      "date": "2026-07-07 01:51:04 UTC",
+      "productTitle": "Paldean Wooper (102/094) (ME02: Phantasmal Flames)",
+      "productHandle": "paldean-wooper-102-094-me02-phantasmal-flames",
+      "author": "M.G.",
+      "title": "",
+      "body": "I love Grandads Cards Shop"
+    },
+    {
+      "id": "c7c8b2c9-c4d8-4b55-9ce7-5cbab3f98c50",
+      "rating": 5,
+      "date": "2026-07-06 18:27:45 UTC",
+      "productTitle": "Chespin (087/086) (Holofoil) (ME04: Chaos Rising)",
+      "productHandle": "chespin-087-086-holofoil-me04-chaos-rising",
+      "author": "Amanda",
+      "title": "Great shop!",
+      "body": "Beautiful card for my master set! Always great quality and great service!"
+    },
+    {
+      "id": "f5462bd6-3805-4f40-aa60-015f410e97bf",
+      "rating": 5,
+      "date": "2026-07-06 13:43:53 UTC",
+      "productTitle": null,
+      "productHandle": null,
+      "author": "Anna Jarvis",
+      "title": "Exactly what I needed",
+      "body": "Exactly the card and condition I was needing to complete my master set. I can always count on Grandad\u2019s!!"
+    },
+    {
+      "id": "50cad150-8f17-43c4-bdf5-4229aa411eee",
+      "rating": 5,
+      "date": "2026-07-06 02:37:04 UTC",
+      "productTitle": "Paradigm Trigger Booster Box - S12",
+      "productHandle": "paradigm-trigger-booster-box-s12",
+      "author": "Ivan Ekleberry",
+      "title": "Great packaging! Will be ordering",
+      "body": "Great packaging! Will be ordering more"
+    },
+    {
+      "id": "2313f80f-9ce6-4ae9-af07-2b4ba9cafe23",
+      "rating": 5,
+      "date": "2026-07-06 01:34:11 UTC",
+      "productTitle": "Mega Dream ex Booster Box - M2a",
+      "productHandle": "mega-dream-ex-booster-box-m2a",
+      "author": "Frank Hankins",
+      "title": "A+ Service",
+      "body": "Bought 2 boxes and they ended up getting lost or forgotten at the USPS Distro. Contacted the guys about it and they fixed the issue and got me 2 new boxes. Had great pulls out of both and will 100% order from them again. They definitely have my business"
+    },
+    {
+      "id": "6b6ba4ae-7355-41b3-8ed0-569488c30a4e",
+      "rating": 5,
+      "date": "2026-07-05 19:52:26 UTC",
+      "productTitle": "50 Card Japanese Art Rare Lot - NO DUPLICATES (BATCH 03-15-2026)",
+      "productHandle": "50-card-japanese-art-rare-lot-no-duplicates",
+      "author": "Greg Frappier",
+      "title": "The kids had a great time trading cards",
+      "body": "The kids had a great time trading cards. There was a great assortment of cards with no duplicates. Amazing purchase for the kids."
+    },
+    {
+      "id": "0577fc4c-df8d-4e7d-b528-9f0d85f35d62",
+      "rating": 5,
+      "date": "2026-07-05 03:14:36 UTC",
+      "productTitle": "Chinese Terastal Gathering Booster Box - CSV9.5C",
+      "productHandle": "chinese-terastal-gathering-booster-box-csv9-5c",
+      "author": "Joshua reyes",
+      "title": "Pulled the exclusive and both boxes were in",
+      "body": "Pulled the exclusive and both boxes were in great condition"
+    },
+    {
+      "id": "b2750989-b6b2-41d2-9dab-a8b6c0b65619",
+      "rating": 5,
+      "date": "2026-07-04 21:25:12 UTC",
+      "productTitle": "Chinese Gem Pack Volume 4 - Booster Box",
+      "productHandle": "chinese-gem-pack-volume-4-booster-box",
+      "author": "Mary Worrell",
+      "title": "Loved it!",
+      "body": "Product was perfectly sealed, authentic, and great! Very happy with my purchase"
+    },
+    {
+      "id": "8f2b8179-a1bc-4918-beaf-3299815b188f",
+      "rating": 5,
+      "date": "2026-07-04 02:46:28 UTC",
+      "productTitle": "Chinese Gem Pack Volume 5 - Booster Box",
+      "productHandle": "chinese-gem-pack-volume-5-booster-box",
+      "author": "Chris Beckett",
+      "title": "Always fast shippingband great prices",
+      "body": "Always fast shippingband great prices."
+    },
+    {
+      "id": "4c7ce1a1-c8a4-43ba-b76f-df95cbf989cd",
+      "rating": 5,
+      "date": "2026-07-04 01:43:24 UTC",
+      "productTitle": "Abyss Eye Booster Box - M5",
+      "productHandle": "abyss-eye-booster-box-m5-pre-order",
+      "author": "Lindsay McCoy",
+      "title": "Wonderful card shop",
+      "body": "I ordered this box for my husband for Father's Day. He wanted the darkrai card so bad and ended up pulling it the day we brought our newborn home. Shipping was quick, came in the day our daughter was born. Box was in great condition. Will definitely be ordering from here again."
+    },
+    {
+      "id": "62a89643-0f05-5d10-b088-16903e29c173",
+      "rating": 5,
+      "date": "2026-07-02 20:43:31 UTC",
+      "productTitle": "Ninja Spinner Booster Box - M4",
+      "productHandle": "ninja-spinner-booster-box-m4",
+      "author": "Mitsuru",
+      "title": "",
+      "body": "Secure packaging and came fast. Great seller!"
+    },
+    {
+      "id": "e4005a35-6cac-5fbb-b4e7-8e17a3e3fbf3",
+      "rating": 5,
+      "date": "2026-07-02 16:55:20 UTC",
+      "productTitle": "Chinese Blade Awakened Slim Booster Box - CSV7C",
+      "productHandle": "chinese-blade-awakened-slim-booster-box-csv7c",
+      "author": "Alan",
+      "title": "",
+      "body": "Fun box"
+    }
+  ]
+}
