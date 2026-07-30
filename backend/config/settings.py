@@ -122,17 +122,19 @@ SPECTACULAR_SETTINGS = {
     "VERSION": "1.0.0",
 }
 
-# --- Media storage (MinIO via S3-compatible API) ---
-USE_S3 = config("USE_S3", default=False, cast=bool)
+# --- Media storage (MinIO via S3-compatible API — django-storages + boto3) ---
+MINIO_ENDPOINT = config("MINIO_ENDPOINT", default="")
+MINIO_ACCESS_KEY = config("MINIO_ACCESS_KEY", default="")
+MINIO_SECRET_KEY = config("MINIO_SECRET_KEY", default="")
+MINIO_BUCKET_NAME = config("MINIO_BUCKET_NAME", default="grandadscards")
 
-if USE_S3:
-    AWS_ACCESS_KEY_ID = config("MINIO_ACCESS_KEY")
-    AWS_SECRET_ACCESS_KEY = config("MINIO_SECRET_KEY")
-    AWS_STORAGE_BUCKET_NAME = config("MINIO_BUCKET_NAME", default="grandadscards")
-    AWS_S3_ENDPOINT_URL = config("MINIO_ENDPOINT_URL", default="http://localhost:9000")
-    AWS_S3_USE_SSL = config("MINIO_USE_SSL", default=False, cast=bool)
-    AWS_S3_ADDRESSING_STYLE = "path"
-    AWS_DEFAULT_ACL = "public-read"
+if MINIO_ACCESS_KEY:
+    AWS_ACCESS_KEY_ID = MINIO_ACCESS_KEY
+    AWS_SECRET_ACCESS_KEY = MINIO_SECRET_KEY
+    AWS_STORAGE_BUCKET_NAME = MINIO_BUCKET_NAME
+    AWS_S3_ENDPOINT_URL = MINIO_ENDPOINT
+    AWS_S3_ADDRESSING_STYLE = "path"  # MinIO needs path-style, not virtual-hosted-style
+    AWS_DEFAULT_ACL = "public-read"  # uploaded images are publicly readable
     AWS_QUERYSTRING_AUTH = False
 
     STORAGES = {
@@ -141,6 +143,7 @@ if USE_S3:
     }
     MEDIA_URL = f"{AWS_S3_ENDPOINT_URL}/{AWS_STORAGE_BUCKET_NAME}/"
 else:
+    # No MinIO credentials set — falls back to local disk automatically, no code change needed.
     MEDIA_URL = "/media/"
     MEDIA_ROOT = BASE_DIR / "media"
     STORAGES = {

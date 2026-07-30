@@ -9,6 +9,17 @@ const nextConfig = {
   turbopack: {
     root: __dirname,
   },
+  images: {
+    remotePatterns: [
+      {
+        protocol: "http",
+        hostname: "62.171.174.37",
+        port: "13012",
+        pathname: "/grandadscards/**",
+        search: "",
+      },
+    ],
+  },
 };
 
 export default nextConfig;
