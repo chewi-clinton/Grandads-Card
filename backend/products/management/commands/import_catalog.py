@@ -77,7 +77,7 @@ class Command(BaseCommand):
             categories[handle] = cat
         self.stdout.write(self.style.SUCCESS(f"Ensured {len(categories)} categories."))
 
-        media_products_dir = os.path.join(settings.MEDIA_ROOT, "products") if not settings.USE_S3 else None
+        media_products_dir = os.path.join(settings.MEDIA_ROOT, "products") if not settings.MINIO_ACCESS_KEY else None
         if media_products_dir:
             os.makedirs(media_products_dir, exist_ok=True)
 

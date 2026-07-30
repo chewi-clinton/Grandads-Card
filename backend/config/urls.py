@@ -13,5 +13,5 @@ urlpatterns = [
     path("api/docs/", SpectacularSwaggerView.as_view(url_name="schema"), name="docs"),
 ]
 
-if settings.DEBUG and not settings.USE_S3:
+if settings.DEBUG and not settings.MINIO_ACCESS_KEY:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
